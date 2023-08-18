@@ -6,7 +6,7 @@
     <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </div>
-
+### esse projeto foi feito clonagem de um repositorio e alterações de algumas configurações para fortalecer as habilidades de desenvolvimento, compreender funcionamento.
 
 ### Este projeto é a criação de um site para uma Pizzaria ficticia.
 
